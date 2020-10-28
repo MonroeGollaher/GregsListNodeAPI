@@ -1,6 +1,5 @@
 import BaseController from "../utils/BaseController"
 import {carService} from "../services/CarService"
-import { carService } from "../services/CarService"
 
 export class CarController extends BaseController {
     constructor(){
